@@ -1,0 +1,5 @@
+/data/questions.db
+/.idea
+/vendor
+*.log
+.DS_Store

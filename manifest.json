@@ -1,0 +1,21 @@
+{
+  "name": "MockTest Application",
+  "short_name": "MockTest",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#2563eb",
+  "description": "Upload previous year questions and take a mock test.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
